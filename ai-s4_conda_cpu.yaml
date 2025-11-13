@@ -1,0 +1,17 @@
+name: ai-s4-cpu
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - jupyterlab=4.4.10
+  - matplotlib=3.10.7
+  - python=3.13.9
+  - scikit-learn=1.7.2
+  - pandas=2.3.3
+  - seaborn=0.13.2
+  - pip:
+      - torch==2.9.0+cpu
+      - torchaudio==2.9.0+cpu
+      - torchmetrics==1.0.3
+      - torchvision==0.24.0+cpu
+      - torchinfo==1.8.0
