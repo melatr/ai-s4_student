@@ -24,5 +24,6 @@ dependencies:
   - gymnasium=1.2.3
   - ipywidgets=8.1.8
   - pip:
+      - pillow==11.3.0 #vanuit conda-forge -> DLL error
       - gensim==4.4.0
       - torchinfo==1.8.0
