@@ -3,8 +3,8 @@
 
 [comment]: # (Instructie: vul onderstaande velden in. 'Peilmoment' is peilmoment 1, peilmoment 2 of beoordelingsmoment.)
 
-* **Studentnummer**:
-* **Naam**:
+* **Studentnummer**: 1883023
+* **Naam**: Mohammed el Atrach
 * **Peilmoment**:
 * **Datum**:
 
